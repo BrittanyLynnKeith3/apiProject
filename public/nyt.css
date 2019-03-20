@@ -11,6 +11,10 @@ body {
   .controls, .results {
     flex: 1;
     padding: 10px;
+    border: inline;
+    margin: 0 auto;
+    width: 404px;
+    height: 228px;
   }
   
   form p:nth-of-type(1) {
